@@ -64,7 +64,7 @@ Attributes:
 
             >>> Projection.model_poit_table
                      spec_id  age_at_entry sex  ...  premium_pp  av_pp_init
-            poind_id                            ...
+            point_id                            ...
             1              A            20   M  ...      500000           0
             2              B            50   M  ...      500000           0
             3              C            20   M  ...        1000           0
